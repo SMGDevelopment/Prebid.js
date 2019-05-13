@@ -1,7 +1,9 @@
 # Built Files
 node_modules/
 build
-
+smg.json
+historynet.json
+sunset.json
 # Test Files
 test/app
 gpt.html
